@@ -1,0 +1,38 @@
+Vanguard MKII Specifications
+----------------------------
+
+The Vanguard MKII should be an improvement upon the Vanguard and only changes or different goals are specified in this document.
+
+GOALS
+- rugged airframe
+- minimize weight of airframe and payload
+- minimize airframe footprint for easy transportation
+- live video feed paload (long range, low power consumption)
+
+SUGGESTIONS
+
+ruggedizing
+- limit wingspan to 1500mm or smaller
+- find new solution for the "bumper", is aerodynamically inefficient!
+
+minimize weight
+? possibly only add 1*5A 4S battery, reduces weight by 400g, might add considerable endurance
+- reconsider servo size
+- reduce engine power too 600W or 400W, smaller prop
+- try to keep video tx power low for lower energy consumption
+- keep wiring weight at minimum
+- keep amount of electronic components down to a minimum
+
+minimize footprint
+- blunt nose for better lift distribution
+- smaller prop for higher efficiency on the inner wing section
+- optimize wing area for weight (deeper but less wingspan, might need another airofoil)
+
+long range video
+- move antennas to the outer wings
+- don't use carbon fibre for the airframe
+
+Misc
+? trapez shaped flaps (wider on the outer sections) for better wing efficiency
+? large winglets for high yaw stability
+
