@@ -1013,7 +1013,7 @@ AcDbLayerTableRecord
   2
 Masse
  70
-4
+0
  62
 3
   6
@@ -1057,7 +1057,7 @@ AcDbLayerTableRecord
   2
 airfoil
  70
-4
+0
  62
 7
   6
@@ -1101,7 +1101,7 @@ AcDbLayerTableRecord
   2
 text
  70
-4
+0
  62
 1
   6
@@ -6619,6 +6619,106 @@ AcDbAlignedDimension
 100
 AcDbRotatedDimension
   0
+MTEXT
+  5
+E9
+100
+AcDbEntity
+100
+AcDbMText
+  8
+text
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+1420.1672374798067722
+ 20
+276.5296284329564855
+ 30
+0.0
+ 40
+5.0
+ 41
+100.0
+ 71
+1
+ 72
+2
+  1
+Wing Area: 0.636 m^2
+  7
+iso
+ 50
+0.0
+ 73
+0
+ 44
+1.0
+  0
+DIMENSION
+  5
+EA
+100
+AcDbEntity
+  8
+Masse
+ 62
+256
+370
+-1
+  6
+ByLayer
+100
+AcDbDimension
+ 10
+117.0
+ 20
+-556.1000000000000227
+ 30
+0.0
+ 11
+104.5
+ 21
+-574.25
+ 31
+0.0
+ 70
+0
+ 71
+5
+ 72
+1
+ 41
+1.0
+ 42
+0.0
+  1
+
+  3
+Standard
+100
+AcDbAlignedDimension
+ 13
+92.5000000000000142
+ 23
+-592.4000000000000909
+ 33
+0.0
+ 14
+118.5
+ 24
+-556.1000000000000227
+ 34
+0.0
+ 50
+90.0
+100
+AcDbRotatedDimension
+  0
 ENDSEC
   0
 SECTION
@@ -6657,7 +6757,7 @@ E
   3
 AcDbVariableDictionary
 350
-E9
+EB
   0
 DICTIONARY
   5
@@ -7121,7 +7221,7 @@ Layout2
   0
 DICTIONARY
   5
-E9
+EB
 100
 AcDbDictionary
 281
@@ -7129,15 +7229,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-EB
+ED
   3
 HIDETEXT
 350
-EA
+EC
   0
 DICTIONARYVAR
   5
-EA
+EC
 100
 DictionaryVariables
 280
@@ -7147,7 +7247,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-EB
+ED
 100
 DictionaryVariables
 280
