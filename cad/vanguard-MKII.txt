@@ -1,0 +1,10 @@
+Vanguard MKII.1
+
+Wingspan:      1500    mm
+Length:         710    mm
+Wing area:        0.89 m^2
+Wing load:       44.5  g/dm^2 (at 2kg)
+
+Prop:          11x6    "
+Engine:         600    W
+
