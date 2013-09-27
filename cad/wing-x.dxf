@@ -969,7 +969,7 @@ AcDbLayerTableRecord
   2
 0
  70
-1
+0
  62
 7
   6
@@ -5987,7 +5987,7 @@ iso
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -6083,7 +6083,7 @@ iso
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -6343,7 +6343,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -6403,7 +6403,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -6463,7 +6463,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -6887,7 +6887,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -6947,7 +6947,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7007,7 +7007,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7067,7 +7067,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7127,7 +7127,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7187,7 +7187,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7247,7 +7247,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7419,7 +7419,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7535,7 +7535,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7595,7 +7595,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7683,7 +7683,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7743,7 +7743,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7803,7 +7803,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7863,7 +7863,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7923,7 +7923,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -7983,7 +7983,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -8043,7 +8043,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -8103,7 +8103,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -8167,7 +8167,7 @@ iso
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -9995,49 +9995,9 @@ TL54mod
  50
 2.9999999999999916
   0
-MTEXT
-  5
-166
-100
-AcDbEntity
-100
-AcDbMText
-  8
-text
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-380.0
- 20
--390.0
- 30
-0.0
- 40
-5.0
- 41
-100.0
- 71
-1
- 72
-0
-  1
-Wing twist: 3%%d
-  7
-normallatin1
- 50
-0.0
- 73
-1
- 44
-1.0
-  0
 LINE
   5
-167
+166
 100
 AcDbEntity
 100
@@ -10065,7 +10025,7 @@ ByLayer
   0
 DIMENSION
   5
-168
+167
 100
 AcDbEntity
   8
@@ -10095,7 +10055,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -10125,7 +10085,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-169
+168
 100
 AcDbEntity
   8
@@ -10155,7 +10115,7 @@ AcDbDimension
  71
 5
  72
-1
+0
  41
 1.0
  42
@@ -10185,7 +10145,7 @@ AcDbRotatedDimension
   0
 INSERT
   5
-16A
+169
 100
 AcDbEntity
 100
@@ -10215,7 +10175,7 @@ TL54mod
   0
 MTEXT
   5
-16B
+16A
 100
 AcDbEntity
 100
@@ -10241,21 +10201,21 @@ ByLayer
  71
 1
  72
-0
+2
   1
 TL-54 mod
   7
-normallatin1
+iso
  50
 0.0
  73
-1
+0
  44
 1.0
   0
 MTEXT
   5
-16C
+16B
 100
 AcDbEntity
 100
@@ -10281,21 +10241,21 @@ ByLayer
  71
 1
  72
-0
+2
   1
 Simon Wunderlin
   7
-normallatin1
+iso
  50
 0.0
  73
-1
+0
  44
 1.0
   0
 MTEXT
   5
-16D
+16C
 100
 AcDbEntity
 100
@@ -10321,9 +10281,49 @@ ByLayer
  71
 1
  72
-0
+2
   1
 Rev 1.1, 2013-08-06
+  7
+iso
+ 50
+0.0
+ 73
+0
+ 44
+1.0
+  0
+MTEXT
+  5
+16D
+100
+AcDbEntity
+100
+AcDbMText
+  8
+text
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+396.097287635500436
+ 20
+-387.2381369997447109
+ 30
+0.0
+ 40
+5.0
+ 41
+100.0
+ 71
+1
+ 72
+0
+  1
+Wing twist 5%%d
   7
 normallatin1
  50
