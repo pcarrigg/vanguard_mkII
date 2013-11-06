@@ -6159,49 +6159,9 @@ AcDbAlignedDimension
 100
 AcDbRotatedDimension
   0
-MTEXT
-  5
-D9
-100
-AcDbEntity
-100
-AcDbMText
-  8
-text
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-190.0
- 20
-180.0
- 30
-0.0
- 40
-10.0
- 41
-100.0
- 71
-1
- 72
-2
-  1
-3DR Modem
-  7
-iso
- 50
-0.0
- 73
-1
- 44
-1.0
-  0
 DIMENSION
   5
-DA
+D9
 100
 AcDbEntity
   8
@@ -6258,6 +6218,46 @@ AcDbAlignedDimension
 90.0
 100
 AcDbRotatedDimension
+  0
+MTEXT
+  5
+DA
+100
+AcDbEntity
+100
+AcDbMText
+  8
+text
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+192.2222222222222285
+ 20
+175.5555555555555429
+ 30
+0.0
+ 40
+10.0
+ 41
+100.0
+ 71
+1
+ 72
+2
+  1
+3DR Modem
+  7
+iso
+ 50
+0.0
+ 73
+1
+ 44
+1.0
   0
 ENDSEC
   0
