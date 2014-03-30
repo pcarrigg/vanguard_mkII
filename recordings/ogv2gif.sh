@@ -23,4 +23,5 @@ echo "optimizing gif ..."
 convert ./tmp/$base.gif -fuzz 5% -layers OptimizePlus $base.gif
 convert ./tmp/$base.gif -resize 400 -fuzz 5% -layers Optimize $base-400-optimized.gif
 convert ./tmp/$base.gif -resize 600 -fuzz 5% -layers Optimize $base-600-optimized.gif
+convert ./tmp/$base.gif -resize 800 -fuzz 5% -layers Optimize $base-800-optimized.gif
 
