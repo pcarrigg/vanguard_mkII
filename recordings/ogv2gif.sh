@@ -20,6 +20,7 @@ mplayer -ao null $1 -vo jpeg:outdir=./tmp/jpg
 echo "converting jpegs to animated gif ..."
 convert ./tmp/jpg/* ./tmp/$base.gif
 echo "optimizing gif ..."
-convert ./tmp/$base.gif -fuzz 20% -layers OptimizePlus $base.gif
-
+convert ./tmp/$base.gif -fuzz 5% -layers OptimizePlus $base.gif
+convert ./tmp/$base.gif -resize 400 -fuzz 5% -layers Optimize $base-400-optimized.gif
+convert ./tmp/$base.gif -resize 600 -fuzz 5% -layers Optimize $base-600-optimized.gif
 
